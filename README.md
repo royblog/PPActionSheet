@@ -1,5 +1,7 @@
 # PPActionSheet
-![](https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg)
+<p align="center" >
+  <img src="https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg" alt="AFNetworking" title="AFNetworking">
+</p>
 
 # Usage
 ```
