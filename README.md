@@ -1,6 +1,6 @@
 # PPActionSheet
-自定义 ActionSheet 样式 
-[](https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg)
+自定义 ActionSheet 样式，效果如下
+![](https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg)
 
 # Usage
 ```
