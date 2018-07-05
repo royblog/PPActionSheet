@@ -1,4 +1,6 @@
 # PPActionSheet
+PPActionSheet is a simple custom style according to UIActionSheet. It contains only one class. As shown in the following figure:
+
 <p align="center" >
   <img src="https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg" alt="PPActionSheet" title="PPActionSheet">
 </p>
