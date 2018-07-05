@@ -1,5 +1,5 @@
 # PPActionSheet
-<div align=center><src="https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg"></div>
+![](![](https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg)
 
 
 # Usage
