@@ -1,7 +1,7 @@
 # PPActionSheet
 ![](https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg)
 
-<img src="https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg" width = 30% height = 30% align=“middle”/>
+<img src="https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg" width = 60% height = 60% align=“middle”/>
 
 <div style="align: center">
 <img src="https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg"/>
