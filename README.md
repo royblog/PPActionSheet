@@ -1,5 +1,5 @@
 # PPActionSheet
-<div align=center>![actionsheet](https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg)
+[](https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg)
 
 # Usage
 ```
