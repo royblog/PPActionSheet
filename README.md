@@ -7,10 +7,10 @@
 <img src="https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg"/>
 </div>
 
-作者：世外大帝
-链接：https://www.jianshu.com/p/d81733fe4170
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
+<div style="align: center">
+<img src="http://upload-images.jianshu.io/upload_images/2182065-91ff11ffeb37cff2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"/>
+</div>
+
 
 # Usage
 ```
