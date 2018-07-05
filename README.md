@@ -1,6 +1,6 @@
 # PPActionSheet
 <p align="center" >
-  <img src="https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg" alt="AFNetworking" title="AFNetworking">
+  <img src="https://github.com/royblog/PPActionSheet/blob/master/Source/snapshoot.jpeg" alt="PPActionSheet" title="PPActionSheet">
 </p>
 
 # Usage
